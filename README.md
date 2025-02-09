@@ -2,6 +2,11 @@
 
 This is a Flask-based web application designed to help users practice translating German words into English. The app loads vocabulary from an Excel file, quizzes the user with random words, and provides feedback on their answers.
 
+
+![Image](https://github.com/user-attachments/assets/d0e5b9f2-d546-4b0f-85da-91c9aaf5dd81)
+
+
+
 ## Features
 
 - **Vocabulary Loading**: Loads German-English word pairs from an Excel file.
